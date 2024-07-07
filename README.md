@@ -10,3 +10,5 @@ Our Capstone project was divided into 2 phases
 This work outperforms SOTA wrt to mean service violations. 
 
 Find our publication here: https://ieeexplore.ieee.org/document/10574641
+
+find the presentations and reports of this project here. 
