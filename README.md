@@ -7,7 +7,9 @@ Our Capstone project was divided into 2 phases
 1) Phase 1: Literature survey on edge and vehicular edge computing and deep reinforcement learning.
 2) Phase 2: Implementation of a Novel resource allocation and service migration scheme to maintain QoS among users.
 
-This work outperforms SOTA wrt to mean service violations. 
+This work outperforms SOTA wrt to mean service violations.
+
+Find our code base in the "Code" folder
 
 Find our publication here: https://ieeexplore.ieee.org/document/10574641
 
